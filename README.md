@@ -126,22 +126,46 @@
 
 ## 📊 GitHub Stats  
 
+<hr/>
+
+<!-- Profile Summary Card -->
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar-shahid&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <a href="https://github.com/abubakar-shahid">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-shahid&theme=radical" alt="GitHub Profile Summary" width="85%"/>
+  </a>
 </p>
+
+<br/>
+
+<!-- Stats + Streak -->
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
+  <a href="https://github.com/abubakar-shahid">
+    <img src="https://github-readme-stats.vercel.app/api?username=abubakar-shahid&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/abubakar-shahid">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
+  </a>
 </p>
+
+<br/>
+
+<!-- Top Languages + Wakatime -->
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abubakarshahid&theme=radical&layout=compact" alt="WakaTime Stats" height="220"/>
 </p>
+
+<br/>
+
+<!-- Trophies -->
 <p align="center">
-  <!-- Contribution Snake -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=radical&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<!-- Snake -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/abubakar-shahid/abubakar-shahid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 <br>
