@@ -116,12 +116,19 @@
 <br/>
 
 <!-- Stats + Streak -->
-<p align="center">
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-readme-stats.vercel.app/api?username=abubakar-shahid&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180"/>
   </a>
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
+  </a>
+
+<!-- Most committed languages + Productive time (UTC by default) -->
+  <a href="https://github.com/abubakar-shahid">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abubakar-shahid&theme=radical" alt="Most committed languages" />
+  </a>
+  <a href="https://github.com/abubakar-shahid">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakar-shahid&theme=radical&utcOffset=5" alt="Commit Time card" />
   </a>
 </p>
 
