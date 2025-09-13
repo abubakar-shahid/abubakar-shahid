@@ -33,7 +33,7 @@
 
 ### 💻 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript,kotlin" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript" />
 </p>
 <br>
 
@@ -154,7 +154,7 @@
   <a href="https://github.com/abubakar-shahid"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/mrAfridi"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme" /></a>
   <a href="https://abubakar-shahid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/abubakar-shahid"><img src="https://komarev.com/ghpvc/?username=abubakar-shahid&color=blue" alt="Profile views"/></a>a
+  <a href="https://github.com/abubakar-shahid"><img src="https://komarev.com/ghpvc/?username=abubakar-shahid&color=blue" alt="Profile views"/></a>
 </a>
 
 </p>
