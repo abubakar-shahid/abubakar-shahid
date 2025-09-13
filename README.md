@@ -2,8 +2,11 @@
 <h3 align="center">Cybersecurity Expert & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F700&center=true&vCenter=true&lines=Cybersecurity+Researcher;Full-Stack+Developer;CTF+Player;Vulnerability+Researcher;Ethical+Hacker" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Researcher;💻+Full--Stack+Developer;🎓+BS+Software+Engineering+@+FAST--NUCES;🎯+Building+Secure+Systems" alt="Typing Animation" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="./Abubakar_Shahid_Cyber_Expert.pdf">
@@ -16,21 +19,11 @@
     <img src="https://img.shields.io/badge/💼%20Resume%20(Software%20Dev)-32CD32?style=for-the-badge" />
   </a>
 </p>
-<br>
-<br>
-
-
-<hr/><h3 align="center">About Me</h3>
-🔹 🔐 Cybersecurity researcher specializing in **penetration testing & vulnerability discovery**  
-🔹 💻 Full-Stack developer with expertise in **Next.js, React.js, and secure backend systems**  
-🔹 🧑‍🎓 BS Software Engineering @ FAST-NUCES Lahore (2021 – 2025)  
-🔹 🎯 Goal: Build **secure systems** by combining offensive security & full-stack development skills  
 
 <br>
 <br>
-<hr/>
 
-<h3 align="center">💻 Languages & Frameworks</h3>
+<hr/><h3 align="center">💻 Languages & Frameworks</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript" />
 </p>
