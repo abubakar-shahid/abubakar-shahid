@@ -33,23 +33,44 @@
 
 ### 💻 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript,kotlin,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript,kotlin" />
 </p>
+<br>
 
 ### 🗄️ Databases & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,docker,git,postman" />
 </p>
+<br>
 
 ### 🔐 Cybersecurity Tools  
-<p>
-  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-red?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDA%20Pro-20232A?style=for-the-badge&logo=hexo&logoColor=white"/>
+<p align="center">
+  <!-- row 1 -->
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-1A9A52?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-6C2F8A?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-4DB33D?style=for-the-badge&logo=database&logoColor=white"/>
+  <img alt="Netcat" src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+<p align="center">
+  <!-- row 2 -->
+  <img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-111827?style=for-the-badge&logo=sony&logoColor=white"/>
+  <img alt="Hydra" src="https://img.shields.io/badge/Hydra-0F172A?style=for-the-badge&logo=hydra&logoColor=white"/>
+  <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-3B3B3B?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img alt="Nikto" src="https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img alt="WPScan" src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img alt="GDB" src="https://img.shields.io/badge/GDB-262626?style=for-the-badge&logo=gnu&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- row 3 -->
+  <img alt="Radare2" src="https://img.shields.io/badge/Radare2-0B0B0B?style=for-the-badge&logo=radar&logoColor=white"/>
+  <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-DA0037?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-20232A?style=for-the-badge&logo=hexo&logoColor=white"/>
+</p>
+
 <br>
 <br>
 
@@ -78,10 +99,6 @@
 🔹 🔝 **Top 10** – Hackathon Workshop CTF, Ignite 2024  
 🔹 📜 **Dean’s List of Honours** – FAST-NUCES (Fall 2021)  
 🔹 🎓 Ranked **Top 3% on TryHackMe** (Level 10 – Wizard, 110+ labs, 14k+ points)
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
 <br>
 <br>
 
@@ -116,12 +133,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-<p align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
+</p>
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 <p align="center">
   <!-- Contribution Snake -->
@@ -137,6 +154,8 @@
   <a href="https://github.com/abubakar-shahid"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/mrAfridi"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme" /></a>
   <a href="https://abubakar-shahid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
-  ![Profile views](https://komarev.com/ghpvc/?username=abubakar-shahid&color=blue)
+  <a href="https://github.com/abubakar-shahid"><img src="https://komarev.com/ghpvc/?username=abubakar-shahid&color=blue" alt="Profile views"/></a>a
+</a>
+
 </p>
 
