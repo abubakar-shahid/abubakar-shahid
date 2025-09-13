@@ -110,11 +110,11 @@
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-shahid&theme=radical" alt="GitHub Profile Summary" width="85%"/>
   </a>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/> -->
 </p>
 
 <br/>
 
+<p align="center">
 <!-- Stats + Streak -->
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-readme-stats.vercel.app/api?username=abubakar-shahid&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -122,13 +122,17 @@
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
   </a>
+</p>
 
-<!-- Most committed languages + Productive time (UTC by default) -->
+<br/>
+
+<p align="center">
+<!-- Most committed languages-->
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abubakar-shahid&theme=radical" alt="Most committed languages" />
   </a>
   <a href="https://github.com/abubakar-shahid">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakar-shahid&theme=radical&utcOffset=5" alt="Commit Time card" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/>
   </a>
 </p>
 
