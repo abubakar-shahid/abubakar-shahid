@@ -62,7 +62,7 @@
   <a href="https://github.com/abubakar-shahid/cve-2024-36886">
     <img src="https://img.shields.io/badge/CVE--2024--36886-Exploit%20Development-critical?style=for-the-badge&logo=linux&logoColor=white&color=red" alt="FYP CVE-2024-36886"/>
   </a>
-  <p>
+  <p align="center">
     Exploit development & vulnerability research in the <b>Linux Kernel – TIPC module</b>
   </p>
 </p>
@@ -136,7 +136,7 @@
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abubakar-shahid/abubakar-shahid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/abubakar-shahid/abubakar-shahid/output/snake.svg" alt="Snake animation"/>
 </p>
 
 <br>
