@@ -20,7 +20,7 @@
 <br>
 
 
-<hr/><h3 align="center">🚀 About Me</h3><hr/>
+<hr/><h3 align="center">About Me</h3>
 🔹 🔐 Cybersecurity researcher specializing in **penetration testing & vulnerability discovery**  
 🔹 💻 Full-Stack developer with expertise in **Next.js, React.js, and secure backend systems**  
 🔹 🧑‍🎓 BS Software Engineering @ FAST-NUCES Lahore (2021 – 2025)  
@@ -29,19 +29,19 @@
 <hr/>
 
 <h3 align="center">💻 Languages & Frameworks</h3>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript" />
 </p>
 <br>
 
-### 🗄️ Databases & Tools  
-<p>
+<h3 align="center">🗄️ Databases & Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,docker,git,postman" />
 </p>
 <br>
 
-### 🔐 Cybersecurity Tools  
-<p>
+<h3 align="center">🔐 Cybersecurity Tools</h3>
+<p align="center">
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-1A9A52?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white"/>
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-6C2F8A?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -65,19 +65,18 @@
   <a href="https://github.com/abubakar-shahid/cve-2024-36886">
     <img src="https://img.shields.io/badge/CVE--2024--36886-Exploit%20Development-critical?style=for-the-badge&logo=linux&logoColor=white&color=red" alt="FYP CVE-2024-36886"/>
   </a>
-</p>
-
-<p>
-  Exploit development & vulnerability research in the <b>Linux Kernel – TIPC module</b>
+  <p>
+    Exploit development & vulnerability research in the <b>Linux Kernel – TIPC module</b>
+  </p>
 </p>
 
 
 <hr/> <h3 align="center">🏆 Achievements</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=228B22" alt="https://abubakar-shahid.vercel.app/docs/deans-list.pdf"/>
-  <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf"/>
-  <img src="https://img.shields.io/badge/🥈%202nd%20Place-Blue%20Team%20Hackathon%202024%20(Ignite)-silver?style=for-the-badge&logo=microsoftteams&logoColor=white&color=C0C0C0" alt="https://abubakar-shahid.vercel.app/docs/blue-teaming.pdf"/><br>
-  <img src="https://img.shields.io/badge/🥇%20Winner-UCP%20Taakra%20Hackathon%202024-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf"/>
+  <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf"/><br>
+  <img src="https://img.shields.io/badge/🥈%202nd%20Place-Blue%20Team%20Hackathon%202024%20(Ignite)-silver?style=for-the-badge&logo=microsoftteams&logoColor=white&color=C0C0C0" alt="https://abubakar-shahid.vercel.app/docs/blue-teaming.pdf"/>
+  <img src="https://img.shields.io/badge/🥇%20Winner-UCP%20Taakra%20Hackathon%202024-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf"/><br>
   <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=DC143C" alt="6th Place Red Teaming"/>
   <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=1E90FF" alt="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf"/><br>
 </p>
@@ -108,7 +107,7 @@
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-shahid&theme=radical" alt="GitHub Profile Summary" width="85%"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/> -->
 </p>
 
 <br/>
