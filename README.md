@@ -26,6 +26,8 @@
 🔹 🧑‍🎓 BS Software Engineering @ FAST-NUCES Lahore (2021 – 2025)  
 🔹 🎯 Goal: Build **secure systems** by combining offensive security & full-stack development skills  
 
+<br>
+<br>
 <hr/>
 
 <h3 align="center">💻 Languages & Frameworks</h3>
@@ -59,6 +61,8 @@
   <img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-20232A?style=for-the-badge&logo=hexo&logoColor=white"/>
 </p>
 
+<br>
+<br>
 
 <hr/> <h3 align="center">🔬 Highlighted Work</h3>
 <p>
@@ -81,6 +85,8 @@
   <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=1E90FF" alt="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf"/><br>
 </p>
 
+<br>
+<br>
 
 <hr/> <h3 align="center">📜 Certifications</h3>
 <p align="center">
@@ -99,6 +105,8 @@
   <img src="https://img.shields.io/badge/Offensive%20Pentesting-In%20Progress-orange?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
 
+<br>
+<br>
 
 <hr/> <h3 align="center">📊 GitHub Stats</h3>
 
@@ -136,6 +144,8 @@
   <img src="https://raw.githubusercontent.com/abubakar-shahid/abubakar-shahid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
+<br>
+<br>
 
 <hr/> <h3 align="center">🌐 Connect</h3>
 <p align="center">
