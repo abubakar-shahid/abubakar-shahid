@@ -20,14 +20,14 @@
 <br>
 
 
-<hr/> <h2 align="center">🚀 About Me</h2>
+<hr/> <h3 align="center">🚀 About Me</h3>
 🔹 🔐 Cybersecurity researcher specializing in **penetration testing & vulnerability discovery**  
 🔹 💻 Full-Stack developer with expertise in **Next.js, React.js, and secure backend systems**  
 🔹 🧑‍🎓 BS Software Engineering @ FAST-NUCES Lahore (2021 – 2025)  
 🔹 🎯 Goal: Build **secure systems** by combining offensive security & full-stack development skills  
 
 
-<hr/> <h2 align="center">🛠️ Tech Stack</h2>
+<hr/> <h3 align="center">🛠️ Tech Stack</h3>
 
 ### 💻 Languages & Frameworks  
 <p>
@@ -61,7 +61,7 @@
 </p>
 
 
-<hr/> <h2 align="center">🔬 Highlighted Work</h2>
+<hr/> <h3 align="center">🔬 Highlighted Work</h3>
 <p>
   <a href="https://github.com/abubakar-shahid/cve-2024-36886">
     <img src="https://img.shields.io/badge/CVE--2024--36886-Exploit%20Development-critical?style=for-the-badge&logo=linux&logoColor=white&color=red" alt="FYP CVE-2024-36886"/>
@@ -73,18 +73,18 @@
 </p>
 
 
-<hr/> <h2 align="center">🏆 Achievements</h2>
+<hr/> <h3 align="center">🏆 Achievements</h3>
 <p>
-  <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=228B22" alt="https://abubakar-shahid.vercel.app/docs/deans-list.pdf"/><br>
-  <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf"/><br>
+  <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=228B22" alt="https://abubakar-shahid.vercel.app/docs/deans-list.pdf"/>
+  <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf"/>
   <img src="https://img.shields.io/badge/🥈%202nd%20Place-Blue%20Team%20Hackathon%202024%20(Ignite)-silver?style=for-the-badge&logo=microsoftteams&logoColor=white&color=C0C0C0" alt="https://abubakar-shahid.vercel.app/docs/blue-teaming.pdf"/><br>
   <img src="https://img.shields.io/badge/🥇%20Winner-UCP%20Taakra%20Hackathon%202024-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf"/>
-  <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=DC143C" alt="6th Place Red Teaming"/><br>
+  <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=DC143C" alt="6th Place Red Teaming"/>
   <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=1E90FF" alt="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf"/><br>
 </p>
 
 
-<hr/> <h2 align="center">📜 Certifications</h2>
+<hr/> <h3 align="center">📜 Certifications</h3>
 <p align="center">
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VWDNLJJCI1.pdf">
     <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-006400?style=for-the-badge&logo=tryhackme&logoColor=white"/>
@@ -102,13 +102,14 @@
 </p>
 
 
-<hr/> <h2 align="center">📊 GitHub Stats</h2>
+<hr/> <h3 align="center">📊 GitHub Stats</h3>
 
 <!-- Profile Summary Card -->
 <p align="center">
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-shahid&theme=radical" alt="GitHub Profile Summary" width="85%"/>
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/>
 </p>
 
 <br/>
@@ -121,14 +122,6 @@
   <a href="https://github.com/abubakar-shahid">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
   </a>
-</p>
-
-<br/>
-
-<!-- Top Languages + Wakatime -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abubakar-shahid&theme=radical&layout=compact" alt="WakaTime Stats" height="220"/>
 </p>
 
 <br/>
@@ -146,7 +139,7 @@
 </p>
 
 
-<hr/> <h2 align="center">🌐 Connect</h2>
+<hr/> <h3 align="center">🌐 Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abubakar-shahid-9031abs/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/abubakar-shahid"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
