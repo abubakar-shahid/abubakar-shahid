@@ -65,7 +65,7 @@
 <br>
 
 <hr/> <h3 align="center">🔬 Highlighted Work</h3>
-<p>
+<p align="center">
   <a href="https://github.com/abubakar-shahid/cve-2024-36886">
     <img src="https://img.shields.io/badge/CVE--2024--36886-Exploit%20Development-critical?style=for-the-badge&logo=linux&logoColor=white&color=red" alt="FYP CVE-2024-36886"/>
   </a>
@@ -74,6 +74,8 @@
   </p>
 </p>
 
+<br>
+<br>
 
 <hr/> <h3 align="center">🏆 Achievements</h3>
 <p align="center">
