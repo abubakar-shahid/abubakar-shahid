@@ -20,16 +20,15 @@
 <br>
 
 
-<hr/> <h3 align="center">🚀 About Me</h3>
+<hr/><h3 align="center">🚀 About Me</h3><hr/>
 🔹 🔐 Cybersecurity researcher specializing in **penetration testing & vulnerability discovery**  
 🔹 💻 Full-Stack developer with expertise in **Next.js, React.js, and secure backend systems**  
 🔹 🧑‍🎓 BS Software Engineering @ FAST-NUCES Lahore (2021 – 2025)  
 🔹 🎯 Goal: Build **secure systems** by combining offensive security & full-stack development skills  
 
+<hr/>
 
-<hr/> <h3 align="center">🛠️ Tech Stack</h3>
-
-### 💻 Languages & Frameworks  
+<h3 align="center">💻 Languages & Frameworks</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,java,javascript,php,ruby,bash,react,nextjs,nodejs,express,typescript" />
 </p>
