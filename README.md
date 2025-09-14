@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Researcher;💻+Full--Stack+Developer;🎓+BS+Software+Engineering+@+FAST--NUCES;🎯+Building+Secure+Systems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ab00&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Researcher;💻+Full--Stack+Developer;🎓+BS+Software+Engineering+@+FAST--NUCES;🎯+Building+Secure+Systems" alt="Typing Animation" />
   </a>
 </p>
 
@@ -108,7 +108,7 @@
 <!-- Profile Summary Card -->
 <p align="center">
   <a href="https://github.com/abubakar-shahid">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-shahid&theme=radical" alt="GitHub Profile Summary" width="85%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-shahid&theme=tokyonight" alt="GitHub Profile Summary" width="85%"/>
   </a>
 </p>
 
@@ -117,10 +117,10 @@
 <p align="center">
 <!-- Stats + Streak -->
   <a href="https://github.com/abubakar-shahid">
-    <img src="https://github-readme-stats.vercel.app/api?username=abubakar-shahid&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abubakar-shahid&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   </a>
   <a href="https://github.com/abubakar-shahid">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=radical" alt="GitHub Streak" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-shahid&theme=tokyonight" alt="GitHub Streak" height="180"/>
   </a>
 </p>
 
@@ -129,10 +129,10 @@
 <p align="center">
 <!-- Most committed languages-->
   <a href="https://github.com/abubakar-shahid">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abubakar-shahid&theme=radical" alt="Most committed languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abubakar-shahid&theme=tokyonight" alt="Most committed languages" />
   </a>
   <a href="https://github.com/abubakar-shahid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=radical&langs_count=10" alt="Top Languages" height="220"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-shahid&layout=donut-vertical&theme=tokyonight&langs_count=10" alt="Top Languages" height="220"/>
   </a>
 </p>
 
@@ -140,7 +140,7 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=radical&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=tokyonight&row=1&column=7" />
 </p>
 
 <br/>
