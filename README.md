@@ -140,7 +140,7 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=tokyonight&row=1&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-shahid&theme=tokyonight&row=1&column=8" />
 </p>
 
 <br/>
