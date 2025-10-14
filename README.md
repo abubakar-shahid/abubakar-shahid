@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Pre%20Security-009900?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IZCIMT4HDR.pdf">
-    <img src="https://img.shields.io/badge/Web%20Fundamentals-228B22?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web%20Fundamentals-138808?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a> <br>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMKX2TLVPO.pdf">
     <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-008000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
