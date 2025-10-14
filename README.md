@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/CVE--2024--36886-Exploit%20Development-critical?style=for-the-badge&logo=linux&logoColor=white&color=red" alt="FYP CVE-2024-36886"/>
   </a>
   <p align="center">
-    Exploit development & vulnerability research in the <b>Linux Kernel – TIPC module</b>
+    <b>In-depth research on Linux Kernel along with Development of Proof-of-Concept exploit for CVE-2024-36886 in Linux Kernel – TIPC module, along with exploitation testing under a controlled environment.</b>
   </p>
 </p>
 
@@ -72,12 +72,12 @@
 
 <hr/> <h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=228B22" alt="https://abubakar-shahid.vercel.app/docs/deans-list.pdf"/>
+  <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=FEBE10" alt="https://abubakar-shahid.vercel.app/docs/deans-list.pdf"/>
   <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf"/><br>
   <img src="https://img.shields.io/badge/🥈%202nd%20Place-Blue%20Team%20Hackathon%202024%20(Ignite)-silver?style=for-the-badge&logo=microsoftteams&logoColor=white&color=C0C0C0" alt="https://abubakar-shahid.vercel.app/docs/blue-teaming.pdf"/>
-  <img src="https://img.shields.io/badge/🥇%20Winner-UCP%20Taakra%20Hackathon%202024-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf"/><br>
-  <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=DC143C" alt="6th Place Red Teaming"/>
-  <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=1E90FF" alt="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf"/><br>
+  <img src="https://img.shields.io/badge/🥇%20Winner-UCP%20Taakra%20Hackathon%202025-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=6C7C59" alt="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf"/><br>
+  <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=C81D11" alt="6th Place Red Teaming"/>
+  <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=EE204D" alt="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf"/><br>
 </p>
 
 <br>
@@ -86,18 +86,20 @@
 <hr/> <h3 align="center">📜 Certifications</h3>
 <p align="center">
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VWDNLJJCI1.pdf">
-    <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-006400?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-40a829?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-K8NFSIE0PM.pdf">
-    <img src="https://img.shields.io/badge/Pre%20Security-228B22?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pre%20Security-009900?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IZCIMT4HDR.pdf">
-    <img src="https://img.shields.io/badge/Web%20Fundamentals-2E8B57?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Web%20Fundamentals-228B22?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a> <br>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMKX2TLVPO.pdf">
-    <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-006400?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-008000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Offensive%20Pentesting-In%20Progress-orange?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-56KTRFEREO.pdf">
+    <img src="https://img.shields.io/badge/Offensive%20Pentesting%20-006400?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 </p>
 
 <br>
