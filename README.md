@@ -70,14 +70,28 @@
 <br>
 <br>
 
-<hr/> <h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=FEBE10" alt="https://abubakar-shahid.vercel.app/docs/deans-list.pdf"/>
-  <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf"/><br>
-  <img src="https://img.shields.io/badge/🥈%202nd%20Place-Blue%20Team%20Hackathon%202024%20(Ignite)-silver?style=for-the-badge&logo=microsoftteams&logoColor=white&color=C0C0C0" alt="https://abubakar-shahid.vercel.app/docs/blue-teaming.pdf"/>
-  <img src="https://img.shields.io/badge/🥇%204th%20Place-UCP%20Taakra%20Hackathon%202025-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=6C7C59" alt="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf"/><br>
-  <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=C81D11" alt="6th Place Red Teaming"/>
-  <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=EE204D" alt="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf"/><br>
+<hr/> <h3 align="center">🏆 Achievements</h3><p align="center">
+  <a href="https://abubakar-shahid.vercel.app/docs/deans-list.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📜%20Dean's%20List-FAST%20NUCES%20(Fall%202021)-green?style=for-the-badge&logo=academia&logoColor=white&color=FEBE10" alt="Dean's List"/>
+  </a>
+  <a href="https://abubakar-shahid.vercel.app/docs/umt-ctf.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🥇%201st%20Place-UMT%20Techverse%20CTF%202025-gold?style=for-the-badge&logo=target&logoColor=white&color=FFD700" alt="UMT Techverse CTF"/>
+  </a>
+  <br>
+  <a href="https://abubakar-shahid.vercel.app/docs/blue-teaming.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🥈%202nd%20Place-Blue%20Team%20Hackathon%202024%20(Ignite)-silver?style=for-the-badge&logo=microsoftteams&logoColor=white&color=C0C0C0" alt="Blue Team Hackathon"/>
+  </a>
+  <a href="https://abubakar-shahid.vercel.app/docs/ucp-taakra.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🥇%204th%20Place-UCP%20Taakra%20Hackathon%202025-gold?style=for-the-badge&logo=google-drive&logoColor=white&color=6C7C59" alt="UCP Taakra Hackathon"/>
+  </a>
+  <br>
+  <a href="https://abubakar-shahid.vercel.app/docs/red-teaming.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🎯%206th%20Place-Red%20Team%20Hackathon%202024%20(Ignite)-red?style=for-the-badge&logo=target&logoColor=white&color=C81D11" alt="Red Team Hackathon"/>
+  </a>
+  <a href="https://abubakar-shahid.vercel.app/docs/hackathon-workshop.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🔝%20Top%2010-Hackathon%20Workshop%20CTF%20(Ignite%202024)-blue?style=for-the-badge&logo=hackthebox&logoColor=white&color=EE204D" alt="Hackathon Workshop CTF"/>
+  </a>
+</p>
 </p>
 
 <br>
