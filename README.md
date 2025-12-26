@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  <a href="./Abubakar_Shahid_Cyber_Expert.pdf">
+  <a href="https://abubakar-shahid.vercel.app/docs/Abubakar-CY-Resume.pdf">
     <img src="https://img.shields.io/badge/💼%20Resume%20(Cyber%20Expert)-1E90FF?style=for-the-badge" />
   </a>
   <a href="https://abubakar-shahid.vercel.app">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="./Abubakar_Shahid_Software_Developer.pdf">
+  <a href="https://abubakar-shahid.vercel.app/docs/Abubakar-SE-CY-Resume.pdf">
     <img src="https://img.shields.io/badge/💼%20Resume%20(Software%20Dev)-32CD32?style=for-the-badge" />
   </a>
 </p>
